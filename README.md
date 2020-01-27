@@ -4,6 +4,4 @@ this is a really awesome website
 
 edit on example branch
 
-editing on update readme branch 
-
-edit locally
+updates on master remote before rebase
